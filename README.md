@@ -55,3 +55,14 @@ From there: `kortix sessions new --prompt "..."` to start an agent, `kortix cr l
 - [FAQ](docs/faq.md)
 
 Get started: [kortix.com](https://kortix.com) · [Docs](https://kortix.com/docs) · [Kortix on GitHub](https://github.com/kortix-ai/suna)
+
+## Further reading on opensourceaiagentplatform.com
+
+Each open-source AI agent platform in this guide has a fuller write-up on the site that accompanies it, including the comparison and the concepts a newcomer needs.
+
+- Kortix is one of the projects ranked in the [best open-source AI agent platforms](https://opensourceaiagentplatform.com/best-open-source-ai-agent-platforms.html) list.
+- Self-hosting one on your own infrastructure is covered in the [self-hosting guide](https://opensourceaiagentplatform.com/self-hosting.html).
+- How multiple agents split work and hand it back is explained in [AI agent orchestration](https://opensourceaiagentplatform.com/ai-agent-orchestration.html).
+- Permissions, memory and the review gate are covered in [AI agent management](https://opensourceaiagentplatform.com/ai-agent-management.html).
+- Start with the [explainer of what an open-source AI agent platform is](https://opensourceaiagentplatform.com/what-is-an-open-source-ai-agent-platform.html).
+- Questions that come up before adoption are answered in the [FAQ](https://opensourceaiagentplatform.com/faq.html).
