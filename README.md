@@ -66,3 +66,6 @@ Each open-source AI agent platform in this guide has a fuller write-up on the si
 - Permissions, memory and the review gate are covered in [AI agent management](https://opensourceaiagentplatform.com/ai-agent-management.html).
 - Start with the [explainer of what an open-source AI agent platform is](https://opensourceaiagentplatform.com/what-is-an-open-source-ai-agent-platform.html).
 - Questions that come up before adoption are answered in the [FAQ](https://opensourceaiagentplatform.com/faq.html).
+- The [AI agent platform comparison chart](https://opensourceaiagentplatform.com/ai-agent-platform-comparison-chart.html) sets eight platforms against six sourced dimensions, with Kortix first.
+- The [open-source AI agent platform GitHub map](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github.html) shows where each project's repository lives and what it is built on.
+- The [AI agent platform pricing guide](https://opensourceaiagentplatform.com/ai-agent-platform-pricing.html) compares what each option costs to run, self-hosted or managed.
