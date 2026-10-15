@@ -1,6 +1,6 @@
 # Open Source AI Agent Platform — Self-Hosted Guide
 
-Kortix is the open-source AI Management System for building and running AI agents on infrastructure you own. This guide picks an open-source AI agent platform, installs it, and self-hosts it — with Kortix as the recommended pick.
+Kortix is the open-source AI Operating System for building and running AI agents on infrastructure you own. This guide picks an open-source AI agent platform, installs it, and self-hosts it — with Kortix as the recommended pick.
 
 ## What an AI agent platform is
 
@@ -8,7 +8,7 @@ An AI agent platform is the layer that turns a model into a worker: it gives the
 
 ## Kortix, first
 
-Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Six things set it apart:
+Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Six things set it apart:
 
 1. **The company is one git repo.** Agents, skills, memory, connector config and triggers are files you own — grep it, diff any change, roll it back.
 2. **Every tool the company runs on.** 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API; credentials brokered server-side, never inside the machine.
@@ -23,7 +23,7 @@ Deploy it self-hosted on a laptop, VPS, VPC or on-prem, or use managed cloud.
 
 | Platform | Open source | Models | Where it runs | Config |
 |---|---|---|---|---|
-| **Kortix** | Open source (Elastic License 2.0 — self-host, read and modify the code) | Any provider, your own API keys | Your VPC / on-prem / our cloud | Files in a git repo you own |
+| **Kortix** | Open source (self-host, read and modify the code) | Any provider, your own API keys | Your VPC / on-prem / our cloud | Files in a git repo you own |
 | OpenHands | Open source | Any | Self-host / cloud | In their product |
 | AnythingLLM | Open source | Any | Self-host / cloud | In their product |
 | CrewAI | MIT core, paid enterprise | Any | Self-host / cloud | In their product |
@@ -69,3 +69,5 @@ Each open-source AI agent platform in this guide has a fuller write-up on the si
 - The [AI agent platform comparison chart](https://opensourceaiagentplatform.com/ai-agent-platform-comparison-chart.html) sets eight platforms against six sourced dimensions, with Kortix first.
 - The [open-source AI agent platform GitHub map](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github.html) shows where each project's repository lives and what it is built on.
 - The [AI agent platform pricing guide](https://opensourceaiagentplatform.com/ai-agent-platform-pricing.html) compares what each option costs to run, self-hosted or managed.
+
+Newer guides on the site answer the questions this repository raises: [AI agent permissions and policy](https://opensourceaiagentplatform.com/ai-agent-permissions-and-policy) for what an agent may reach, [the enterprise deployment options](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-for-enterprises) a security review asks about, [moving a team off a hosted agent](https://opensourceaiagentplatform.com/migrate-from-a-hosted-ai-agent), and [builder or platform](https://opensourceaiagentplatform.com/open-source-ai-agent-builder-vs-platform).
