@@ -53,6 +53,7 @@ From there: `kortix sessions new --prompt "..."` to start an agent, `kortix cr l
 - [Platform comparison](docs/comparison.md)
 - [How an agent platform works](docs/architecture.md)
 - [Sandboxing with production write access](docs/sandboxing-production-write-access.md)
+- [What agent compute costs per hour](docs/sizing-agent-compute.md)
 - [FAQ](docs/faq.md)
 
 Get started: [kortix.com](https://kortix.com) · [Docs](https://kortix.com/docs) · [Kortix on GitHub](https://github.com/kortix-ai/suna)

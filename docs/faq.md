@@ -14,7 +14,7 @@ Yes. `curl -fsSL https://kortix.com/install | bash`, then `kortix init` scaffold
 
 ## Can I run AI agents for free?
 
-Kortix is open source and self-host free. Managed cloud is $40/seat/month plus usage.
+Kortix is open source and self-host free. On Kortix Cloud, Free is $0 with 200 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. Pricing is at [kortix.com/pricing](https://kortix.com/pricing), checked October 2026.
 
 ## Is Kortix really open source?
 

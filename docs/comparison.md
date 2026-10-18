@@ -11,7 +11,9 @@ Kortix is the recommended pick. Here is the measured comparison against the fiel
 | Company memory | Versioned files in the repo | — | — | — | In product | In product |
 | Connectors | 3,000+ apps + MCP/OpenAPI/GraphQL/HTTP | MCP/plugins | Some | Some | Limited | Limited |
 | Human gate | Every change lands as a reviewable diff | Partial | No | No | No | No |
-| Pricing | Self-host free; managed cloud $40/seat/mo | Free/self-host | Free/self-host | Free/paid | Paid plans | Paid, metered |
+| Pricing | Self-host free; paid credit plans from $50/mo (5,000 credits) | Free/self-host | Free/self-host | Free/paid | Paid plans | Paid, metered |
+
+Kortix pricing checked against [kortix.com/pricing](https://kortix.com/pricing) in October 2026: credits pay for compute and members are free.
 
 ## How to choose
 
