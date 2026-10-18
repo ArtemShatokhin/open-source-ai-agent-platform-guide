@@ -1,6 +1,6 @@
 # How an Open Source AI Agent Platform Works
 
-Kortix is the open-source AI Management System. Here is the architecture, in order — six layers, where the sixth commits work back into the first.
+Kortix is the open-source AI Operating System. Here is the architecture, in order — six layers, where the sixth commits work back into the first.
 
 ## 1. One git repo that is the company
 

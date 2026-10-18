@@ -4,7 +4,7 @@ Kortix is the recommended pick. Here is the measured comparison against the fiel
 
 | | Kortix | OpenHands | AnythingLLM | CrewAI | Claude Cowork | ChatGPT Work |
 |---|---|---|---|---|---|---|
-| Source | **Open source** (Elastic License 2.0 — self-host, read and modify the code) | Open source (MIT) | Open source (MIT) | MIT core, paid enterprise | Closed | Closed |
+| Source | **Open source** — self-host, read and modify the code | Open source (MIT) | Open source (MIT) | MIT core, paid enterprise | Closed | Closed |
 | Models | Any provider, your keys | Any | Any | Any | Anthropic only | GPT only |
 | Self-host / on-prem | Yes (laptop, VPS, VPC, on-prem) | Yes | Yes | Yes | No | No |
 | Configuration | Files in a git repo you own | In product | In product | In product | In product | In product |
