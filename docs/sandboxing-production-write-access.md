@@ -8,7 +8,7 @@ On Kortix, the open-source AI Operating System, an agent's sandbox is metered co
 
 E2B, a sandbox service, listed $0.000028 a second at its default 2 vCPU size as of October 2026. That is about ten cents an hour, or about $72.58 for a 30-day month that never stops. Daytona's card prices the same shape, 2 vCPU with 4 GB of memory, at about $0.17 an hour, and it bills per second too.
 
-Kortix folds the same meter into credits. A credit covers sandbox compute, the meter runs per second while a session runs, and a stopped session draws nothing. Free is $0 with 200 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. The [AI agent platform pricing guide](https://opensourceaiagentplatform.com/ai-agent-platform-pricing) on the site that accompanies this repo works that arithmetic out, with a calculator for team size.
+Kortix folds the same meter into credits. A credit covers sandbox compute, the meter runs per second while a session runs, and a stopped session draws nothing. Free is $0 with 500 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. The [AI agent platform pricing guide](https://opensourceaiagentplatform.com/ai-agent-platform-pricing) on the site that accompanies this repo works that arithmetic out, with a calculator for team size.
 
 ## What production write access costs
 
