@@ -14,7 +14,7 @@ The hours come from the work, and the work does not wait for a person. A cron sc
 
 | Platform | What it meters | The rate | Free allowance and the plan around it |
 |---|---|---|---|
-| Kortix | Sandbox seconds | 1 credit is $0.01; the default machine about 11 credits an hour | 200 credits a month, then tiers from $50/mo |
+| Kortix | Sandbox seconds | 1 credit is $0.01; the default machine about 11 credits an hour | 500 credits a month, then tiers from $50/mo |
 | E2B | Sandbox seconds, by size | $0.000028/s at the default 2 vCPU, about $0.10 an hour | $100 one-time credit; Pro adds a $150/mo base |
 | Daytona | vCPU, memory and storage seconds | $0.0504 per vCPU-hour; $0.0162 per GB-hour | $200 free compute; pay as you go |
 
@@ -36,7 +36,7 @@ The trap is the machine that never stops. One E2B sandbox at the default size co
 
 Bursts favor a per-second meter. A team that stops idle sessions pays for work and nothing else, so the 1,050-hour month is the whole compute bill. An always-on footprint wants the opposite arrangement: committed use. E2B sells larger tiers on committed usage with custom billing, Daytona advertises volume discounts as a team scales, and both push a steady footprint toward a negotiated rate. A reservation punishes bursts with a fixed bill.
 
-A credit pool lands between the two. Kortix keeps the per-second meter and wraps a monthly pool around it, so the bursts come out of the pool and a stopped session draws nothing. Free is $0 with 200 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. At 11 credits an hour, that $50 tier buys about 455 hours of the default computer. The per-seat route looks simpler to budget because the number is fixed by headcount. The rate cards say the hours set the cost, and a seat bill holds still while they swing. On Kortix the 25-person team adds no per-person line at all; the pool is what the work draws on.
+A credit pool lands between the two. Kortix keeps the per-second meter and wraps a monthly pool around it, so the bursts come out of the pool and a stopped session draws nothing. Free is $0 with 500 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. At 11 credits an hour, that $50 tier buys about 455 hours of the default computer. The per-seat route looks simpler to budget because the number is fixed by headcount. The rate cards say the hours set the cost, and a seat bill holds still while they swing. On Kortix the 25-person team adds no per-person line at all; the pool is what the work draws on.
 
 ## Next steps
 
