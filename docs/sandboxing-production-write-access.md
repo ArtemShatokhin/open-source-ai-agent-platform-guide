@@ -36,7 +36,7 @@ On Kortix, memory is files in the project repo. No service meters its reads and 
 
 ## Self-host the gate
 
-Self-hosting keeps the software line at zero and puts the stack on a server you own. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The sandbox meter follows you. On a self-hosted instance, sessions still run on a cloud sandbox provider, Daytona by default, created with your provider key. The compute line stays a line you already know. Once the stack is up, `kortix cr ls` lists the change requests your agents have opened, each one waiting on a person.
+Self-hosting keeps the software line at zero and puts the stack on a server you own. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The sandbox meter follows you. On a self-hosted instance, sessions still run on a cloud sandbox provider, Platinum by default, created with your provider key. The compute line stays a line you already know. Once the stack is up, `kortix cr ls` lists the change requests your agents have opened, each one waiting on a person.
 
 ```bash
 curl -fsSL https://kortix.com/install | bash
